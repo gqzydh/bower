@@ -10,8 +10,8 @@ A package manager for the web [http://bower.io](http://bower.io/)
 
 1. [bower介绍](#bower介绍)
 2. [bower安装](#bower安装)
-3. [bower命令](#Bower命令)
-4. [使用bower](#使用Bower)
+3. [bower命令](#bower命令)
+4. [使用bower](#使用bower)
 5. [用bower提交自己类库](#用bower提交自己类库)
 
 - ### bower介绍###
@@ -30,7 +30,7 @@ A package manager for the web [http://bower.io](http://bower.io/)
 
        > 功能介绍，摘自文章：[http://chuo.me/2013/02/twitter-bower.html](http://chuo.me/2013/02/twitter-bower.html)
 
-- ### Bower安装###
+- ### bower安装###
 
   > bower插件是通过npm, Node.js包管理器安装和管理的。
 
@@ -40,7 +40,7 @@ A package manager for the web [http://bower.io](http://bower.io/)
   $ npm install -g bower
   ```
 
-- ### Bower命令###
+- ### bower命令###
 
   `bower help `
 
@@ -67,7 +67,7 @@ A package manager for the web [http://bower.io](http://bower.io/)
 
   - uninstall              删除一个包
 
-- ### 使用Bower###
+- ### 使用bower###
 
   1. 安装jQuery到项目
 
@@ -126,11 +126,11 @@ A package manager for the web [http://bower.io](http://bower.io/)
 
   10. 用浏览器打开dojo的发布主页
 
-      ```bower
-      bower home dojo
-      ```
+  ```bower
+     bower home dojo
+  ```
 
-      ​
+     ​
 
 - ### 用bower提交自己类库###
 
