@@ -1,4 +1,6 @@
-# Bower#
+# Bower #
+
+A package manager for the web [http://bower.io](http://bower.io/)
 
 > Bower是一个适合Web应用的包管理器，它擅长前端的包管理，通过其API展示了包依赖模型。使得项目不存在系统级的依赖，不同的应用程序间也不会共享依赖，整个依赖树是扁平的。
 
@@ -6,11 +8,11 @@
 
 ## 目录##
 
-1. bower介绍
-2. bower安装
-3. bower命令
-4. bower使用
-5. 用bower提交自己类库
+1. [bower介绍](bower介绍)
+2. [bower安装](bower安装)
+3. [bower命令](Bower命令)
+4. [使用bower](使用Bower)
+5. [用bower提交自己类库](用bower提交自己类库)
 
 - ### bower介绍###
 
@@ -65,7 +67,7 @@
 
   - uninstall              删除一个包
 
-- ### 使用Bower安装JQuery###
+- ### 使用Bower###
 
   1. 安装jQuery到项目
 
