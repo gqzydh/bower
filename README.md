@@ -8,11 +8,11 @@ A package manager for the web [http://bower.io](http://bower.io/)
 
 ## 目录##
 
-1. [bower介绍](bower介绍)
-2. [bower安装](bower安装)
-3. [bower命令](Bower命令)
-4. [使用bower](使用Bower)
-5. [用bower提交自己类库](用bower提交自己类库)
+1. [bower介绍](#bower介绍)
+2. [bower安装](#bower安装)
+3. [bower命令](#Bower命令)
+4. [使用bower](#使用Bower)
+5. [用bower提交自己类库](#用bower提交自己类库)
 
 - ### bower介绍###
 
