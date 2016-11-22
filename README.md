@@ -39,7 +39,13 @@ A package manager for the web [http://bower.io](http://bower.io/)
   ```npm
   $ npm install -g bower
   ```
-
+  ```npm
+  $ bower --version
+  ```
+  ```npm
+  $ npm i -g bower to update
+  ```
+  
 - ### bower命令###
 
   `bower help `
