@@ -43,10 +43,12 @@ A package manager for the web [http://bower.io](http://bower.io/)
   $ bower --version
   ```
   > 检查版本确认是否安装好
+  
   ```npm
   $ npm update -g bower
   ```
   > 更新Bower版本,权限问题添加sudo
+  
   ```npm
   $ npm uninstall --global bower 
   ```
